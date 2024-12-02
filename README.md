@@ -36,7 +36,7 @@ We'll use three separate files for clean organization:
    - `style.css`
    - `script.js`
 
-3. **You need an editor like VSCode, Sublime Text or Text Editor to open the Files**  
+3. **You might need a text editor like [Notepad++](https://notepad-plus-plus.org/), [VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/) or any other editor of your choice to open and edit the Files**  
 
 ---
 
