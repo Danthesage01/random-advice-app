@@ -239,13 +239,6 @@ document.getElementById('new-advice').addEventListener('click', fetchAdvice);
 
 ---
 
-## **Step 7: Optional Improvements**
-- Change colours, fonts, or layouts in `style.css` to personalize the app.
-- Add animations for smoother transitions when advice updates.
-
----
-
 ### 🎉 **Congratulations!**
-You’ve built and run your own Random Advice Web Application. Share it with friends or use this as a stepping stone to explore more APIs and projects.
+You’ve built a Web Application that can consume a RESTful API. Share it with friends, or use this as a stepping stone to explore more APIs and projects.
 
----
