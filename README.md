@@ -2,7 +2,7 @@
 
 If you're new to programming, don't worry!  
 
-You can use this guide to do the task, and it displays random advice every 20 seconds.
+You can use this guide to do the task.
 
 Check out the [demo here](https://neon-duckanoo-7458d7.netlify.app/).  
 
